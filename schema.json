@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "androidTargetSDK": {
+            "type": "number"
+        },
+        "appResourcesPath": {
+            "type": "string"
+        },
+        "isAndroid": {
+            "type": "boolean"
+        },
+        "isIOS": {
+            "type": "boolean"
+        },
+        "version": {
+            "type": "string"
+        }
+    },
+    "additionalProperties": true
+}
