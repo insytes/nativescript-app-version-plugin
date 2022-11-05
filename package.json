@@ -1,5 +1,5 @@
 {
-  "name": "@ontrack/nativescript-app-version",
+  "name": "@insytes/nativescript-app-version-plugin",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
